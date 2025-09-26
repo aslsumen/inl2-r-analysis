@@ -36,4 +36,4 @@ The analysis investigates which of two IDEs (IDE-A vs IDE-B) improves developer 
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/inl2-r-analysis.git
+   git clone https://github.com/aslsumen/inl2-r-analysis.git
